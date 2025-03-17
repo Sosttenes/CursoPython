@@ -1,4 +1,5 @@
 # Manipulação de cadeias de caracteres
+'Exercícios 22 até 27'
 
 # O que é uma cadeia de caracteres?
 # Uma cadeia de caracteres é uma sequência de caracteres, como uma palavra ou uma frase.
