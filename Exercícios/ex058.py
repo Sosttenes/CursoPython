@@ -12,4 +12,3 @@ while computador != eu:
     eu = int(input('\033[mQual é o seu palpite: '))
     cont += 1
 print(f'\033[032mAcertou, na {cont}° tentativa')
-print('\033[m')
