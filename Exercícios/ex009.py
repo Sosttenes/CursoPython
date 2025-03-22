@@ -11,8 +11,3 @@ print(f'{n} x  7 = {n*7}')
 print(f'{n} x  8 = {n*8}')
 print(f'{n} x  9 = {n*9}')
 print(f'{n} x 10 = {n*10}')
-# O que aprendi na aula de hoje:
-# 1. Aprendi a fazer uma tabuada
-# 2. Aprendi a usar o operador de multiplicação
-# 3. Aprendi a usar o operador de formatação de strings
-# 4. Aprendi a usar o operador de repetição
